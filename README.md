@@ -1,4 +1,4 @@
-# Beautiful Folds
+# Beautiful Folds 
 Max Rabkin's beautiful folding for C++
 
 Known to work with
